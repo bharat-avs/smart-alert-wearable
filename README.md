@@ -30,18 +30,11 @@ Sentinel Edge is a two-part ecosystem:
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](Link_to_your_architecture_diagram_image_here)
-*(Note: Upload the diagram we discussed earlier to your repo and link it here)*
+## 🏗️ System Architecture
+
+![Circuit Diagram](Assets/circuit%20diagram.jpg)
 
 ### Hardware Pinout (ESP32 WROOM-32U)
-| Component | Pin | Protocol | Purpose |
-| :--- | :--- | :--- | :--- |
-| **MPU6050** | GPIO 21/22 | I2C | Detects sudden impact or struggles (Jerk > 20k) |
-| **Pulse Sensor** | GPIO 35 | ADC | Detects tachycardia (panic) or bradycardia (unconscious) |
-| **MQ Gas Sensor** | GPIO 34 | ADC | Detects airborne incapacitating agents |
-| **SOS Switch** | GPIO 27 | Digital IN | Manual pull-up override |
-| **Piezo Beeper** | GPIO 25 | Digital OUT | Local audio deterrent |
-
 ---
 
 ## 📸 Frontend Workflow & State Management
