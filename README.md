@@ -32,7 +32,7 @@ Sentinel Edge is a two-part ecosystem:
 
 ## 🏗️ System Architecture
 
-![Circuit Diagram](Assets/circuit diagram.jpg)
+![Circuit Diagram](Assets/circuit diagram.jpeg)
 
 ### Hardware Pinout (ESP32 WROOM-32U)
 ---
