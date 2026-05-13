@@ -44,12 +44,46 @@ Sentinel Edge is a two-part ecosystem:
 
 ---
 
-## 📸 Project Gallery
+## 📸 Frontend Workflow & State Management
 
-<p align="center">
-  <img src="Link_to_app_screenshot_here" width="250" title="Android App Dashboard">
-  <img src="Link_to_breadboard_photo_here" width="400" title="Hardware Prototype">
-</p>
+To ensure a seamless user experience, the companion app features real-time dynamic UI updates and robust error handling.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>1. Default Dashboard</b><br>
+      <br>
+      <img src="Assets/state-1-default.jpg" width="220" title="Default Status">
+    </td>
+    <td align="center">
+      <b>2. Settings Confirmation</b><br>
+      <br>
+      <img src="Assets/state-2-saved-toast.jpg" width="220" title="Settings Saved Toast">
+    </td>
+    <td align="center">
+      <b>3. Initialization</b><br>
+      <br>
+      <img src="Assets/state-3-connecting.jpg" width="220" title="Connecting to Wearable">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>4. Error Handling</b><br>
+      <br>
+      <img src="Assets/state-4-bt-error.jpg" width="220" title="Bluetooth Disabled Error">
+    </td>
+    <td align="center">
+      <b>5. Failsafe Cancellation</b><br>
+      <br>
+      <img src="Assets/state-5-cancelled.jpg" width="220" title="SOS Cancelled">
+    </td>
+    <td align="center">
+      <b>6. Smart Triage Active</b><br>
+      <br>
+      <img src="Assets/state-6-triage-enabled.jpg" width="220" title="Ambulance Routing Enabled">
+    </td>
+  </tr>
+</table>
 
 ---
 
